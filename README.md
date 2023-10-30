@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NicsReponte
+- 👋 Hi, I’m @JaNics1020
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate 
 - 📫 you can reach me at my email Nicsesperanza101020@gmail.com
 
